@@ -1,0 +1,11 @@
+Objective: This program will allow the user to play rock, paper, scissors
+against the computer.
+
+We will:
+Create code that checks who won each round.
+Create code that takes input (choices) from the user.
+We will create code that takes input from the computer.
+Check if the user wants to quit or if the user doesn't enter one of the options.
+Loop each round of the game
+Add statements at the end and beginning that welcome and thank the user for playing
+Loop the whole game so that they can keep playing until they choose to quit.
